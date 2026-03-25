@@ -1,0 +1,3 @@
+Model: BLSTM
+Novelty Rate: 100.00%
+Diversity: 0.6400

@@ -1,0 +1,3 @@
+Model: Attention RNN
+Novelty Rate: 73.40%
+Diversity: 0.6360
